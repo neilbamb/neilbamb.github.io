@@ -15,11 +15,10 @@
 		"tags": ["Python", "Tensorflow", "NLP"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Tableau Visualizations",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"url": "https://public.tableau.com/profile/neilbamb",
+		"tags": ["Tableau"]
 	},
 	{
 		"name": "Pavement Preservation Treatment Database",
