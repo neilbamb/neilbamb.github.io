@@ -1,18 +1,18 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		#"slug": "etrucking-soft",
+		"name": "E-Asclepius",
 		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"url": "https://github.com/neilbamb/E-asclepius",
+		#"date": "Jan 2014",
+		"tags": ["Python", "Django", "HTML", "CSS", "JavaScipt"]
 	},
 	{
-		"name": "Easy Links",
+		"name": "Know Your Neighbourhood",
 		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		#"date": "May 2017",
+		"description": "An app which detects the severity of a tweet and alerts users with the accuracy of the tweet, whether it authentic or not and its chances of becoming severe in future.",
+		"tags": ["Python", "Tensorflow", "NLP"]
 	},
 	{
 		"name": "Live Band Club",
