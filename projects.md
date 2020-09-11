@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+Here are some of my key projects. Most of them are focused in Python, Machine Learning and Deep Learning. 
