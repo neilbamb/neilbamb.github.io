@@ -9,14 +9,14 @@
 	},
 	{
 		"name": "Know Your Neighbourhood",
-		"image": "easy-links.jpg",
+		"image": "know_ur_neighbor.jpg",
 		#"date": "May 2017",
 		"description": "An app which detects the severity of a tweet and alerts users with the accuracy of the tweet, whether it authentic or not and its chances of becoming severe in future.",
 		"tags": ["Python", "Tensorflow", "NLP"]
 	},
 	{
 		"name": "Tableau Visualizations",
-		"image": "livebandclub.png",
+		"image": "tableau.png",
 		"url": "https://public.tableau.com/profile/neilbamb",
 		"tags": ["Tableau"]
 	},
