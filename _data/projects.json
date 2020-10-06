@@ -22,8 +22,14 @@
 	},
 	{
 		"name": "Tennis Match and Betting Prediction",
-		"image": "pp_logo.png",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"image": "tennis.jpg",
+		"url": "https://github.com/neilbamb/",
 		"tags": ["Python","Machine Learning"]
+	},
+	{
+		"name": "Sentiment analysis of hotel reviews using Bidirectional Encoder Representations from Transformers (BERT)",
+		"image": "Sentiment-Analysis.png",
+		"url": "https://github.com/neilbamb/",
+		"tags": ["Python", "Pytorch", "Deep Learning"]
 	}
 ]
