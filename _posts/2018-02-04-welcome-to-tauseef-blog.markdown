@@ -15,5 +15,5 @@ I have a diverse set of skills, ranging from Java, Python, SQL, Tableau and AWS.
 
 
 # What is this site about?
-Starting a blog and creating an online presense, to share my learnings was always on my todo list. Finally today I decided to start doing it.
+Starting a blog and creating an online presence, to share my learnings which was always on my todo list. Finally, I decided to  it.
 I want to use this site as a place to share my experiences with interesting programing problem solving, hoping someone will benefit from the findings.
