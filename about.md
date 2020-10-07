@@ -10,4 +10,4 @@ I am currently pursuing Master's in Data Analytics Student from the National Col
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1ol192k_6XBV0Z9vxoRdqr-lpjLxzep_W/view" width="100%" height="900"></iframe>
